@@ -176,6 +176,7 @@ nav a:hover {
     background-color: transparent;
     border: 2px solid var(--accent);
     color: var(--accent);
+    margin-bottom: 1rem;
 }
 .toggle-btn:hover {
     background-color: var(--accent);
