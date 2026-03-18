@@ -172,6 +172,16 @@ nav a:hover {
     background-color: var(--btn-hover);
 }
 
+.toggle-btn {
+    background-color: transparent;
+    border: 2px solid var(--accent);
+    color: var(--accent);
+}
+.toggle-btn:hover {
+    background-color: var(--accent);
+    color: white;
+}
+
 
 /*  MEDIA QUERIES  */
 @media (min-width: 600px) {
